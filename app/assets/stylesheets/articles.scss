@@ -1,0 +1,49 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.nav {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;  
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.nav a {
+  padding: 15px;
+  margin: 10px;
+  text-decoration: none;
+  color: #777;
+}
+
+.bot {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.bar {
+  font-size: 20px;
+}
+
+.contain {
+  margin-right: 200px;
+  margin-left: 200px;
+  padding-right: 15px;
+  padding-left: 15px;
+
+}
+
+h2 a  {
+  color: #337ab7;
+  text-decoration: none;
+}
